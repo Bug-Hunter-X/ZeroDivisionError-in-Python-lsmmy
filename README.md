@@ -1,0 +1,2 @@
+# ZeroDivisionError in Python
+This example demonstrates a common runtime error in Python: ZeroDivisionError.  The function `function_with_uncommon_error` attempts to divide by zero which results in an error. The solution shows how to handle the potential error with a simple 'if' statement to check for zero before the division operation.
